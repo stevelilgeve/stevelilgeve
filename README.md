@@ -79,20 +79,6 @@ class Developer:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevelilgeve&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevelilgeve&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevelilgeve&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌟 What I'm Working On
 
 - 🏦 Building **Siaka Loan App** - A complete microfinance solution
@@ -102,9 +88,12 @@ class Developer:
 
 ---
 
-## 📈 Activity Graph
+## 🌟 What I'm Working On
 
-![Steve's Activity Graph](https://activity-graph.herokuapp.com/stevelilgeve?theme=tokyonight&hide_border=true)
+- 🏦 Building **Siaka Loan App** - A complete microfinance solution
+- 💡 Exploring **M-Pesa integration** for mobile money in Kenya
+- 📚 Learning **advanced Django patterns** and **system architecture**
+- 🌍 Contributing to **fintech open source** projects
 
 ---
 
@@ -128,12 +117,6 @@ class Developer:
 - [ ] 📝 Write **10+ technical blog posts**
 - [ ] 🎤 Speak at **2 tech conferences**
 - [ ] 🤝 Collaborate on **3 open source projects**
-
----
-
-## 💡 Random Dev Fact
-
-![Random Dev Fact](https://github-readme-stats.vercel.app/api/wakatime?username=stevelilgeve&theme=tokyonight&hide_border=true)
 
 ---
 
