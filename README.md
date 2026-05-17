@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Steve Lil Geve! 
+# 👋 Hey there, I'm Steve Ligeve! 
 
 <div align="center">
 
