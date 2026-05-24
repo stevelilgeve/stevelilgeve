@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Steve Ligeve! 
+#  Hey there, I'm Steve Ligeve! 
 
 <div align="center">
 
@@ -8,15 +8,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "Steve Lil Geve"
         self.role = "Full Stack Developer"
-        self.location = "Kenya 🇰🇪"
-        self.focus = ["Django", "Python", "Microfinance Systems", "Fintech"]
+        self.location = "Kenya"
+        self.focus = ["AI Tech Builder" ""Django", "Python", "Microfinance Systems", "Fintech"]
     
     def current_project(self):
         return "Building Siaka Loan App - Microfinance Core Banking System"
@@ -32,7 +32,7 @@ class Developer:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -58,9 +58,9 @@ class Developer:
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🏦 [Siaka Loan App](https://github.com/stevelilgeve/siaka-loan-app)
+### [Siaka Loan App](https://github.com/stevelilgeve/siaka-loan-app)
 > Modern Microfinance Core Banking System
 
 ![Django](https://img.shields.io/badge/Django-5.0.6-green?style=flat-square&logo=django)
@@ -68,36 +68,36 @@ class Developer:
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 **Key Features:**
-- 💳 Complete loan management system (Draft → Approve → Disburse → Repay)
-- 👥 Client management with document upload
-- 💰 Savings accounts & transaction tracking
-- 📊 Role-based dashboards & analytics
-- 🔐 Advanced permission system
-- 🎨 Modern UI with Bootstrap 5 & Font Awesome 6
+- Complete loan management system (Draft → Approve → Disburse → Repay)
+- Client management with document upload
+- Savings accounts & transaction tracking
+- Role-based dashboards & analytics
+- Advanced permission system
+- Modern UI with Bootstrap 5 & Font Awesome 6
 
 **Tech Stack:** `Django` `Python` `Bootstrap` `PostgreSQL` `Docker` `M-Pesa API`
 
 ---
 
-## 🌟 What I'm Working On
+##  What I'm Working On
 
-- 🏦 Building **Siaka Loan App** - A complete microfinance solution
-- 💡 Exploring **M-Pesa integration** for mobile money in Kenya
-- 📚 Learning **advanced Django patterns** and **system architecture**
-- 🌍 Contributing to **fintech open source** projects
-
----
-
-## 🌟 What I'm Working On
-
-- 🏦 Building **Siaka Loan App** - A complete microfinance solution
-- 💡 Exploring **M-Pesa integration** for mobile money in Kenya
-- 📚 Learning **advanced Django patterns** and **system architecture**
-- 🌍 Contributing to **fintech open source** projects
+- Building **Siaka Loan App** - A complete microfinance solution
+- Exploring **M-Pesa integration** for mobile money in Kenya
+- Learning **advanced Django patterns** and **system architecture**
+- Contributing to **fintech open source** projects
 
 ---
 
-## 🤝 Let's Connect!
+##  What I'm Working On
+
+- Building **Siaka Loan App** - A complete microfinance solution
+- Exploring **M-Pesa integration** for mobile money in Kenya
+- Learning **advanced Django patterns** and **system architecture**
+- Contributing to **fintech open source** projects
+
+---
+
+## Let's Connect!
 
 <div align="center">
 
@@ -110,13 +110,13 @@ class Developer:
 
 ---
 
-## 🎯 2026 Goals
+##  2026 Goals
 
-- [ ] ⭐ Get **100+ stars** on Siaka Loan App
-- [ ] 🚀 Deploy Siaka Loan App to production
-- [ ] 📝 Write **10+ technical blog posts**
-- [ ] 🎤 Speak at **2 tech conferences**
-- [ ] 🤝 Collaborate on **3 open source projects**
+- [ ]  Get **100+ stars** on Siaka Loan App
+- [ ]  Deploy Siaka Loan App to production
+- [ ]  Write **10+ technical blog posts**
+- [ ]  Speak at **2 tech conferences**
+- [ ]  Collaborate on **3 open source projects**
 
 ---
 
