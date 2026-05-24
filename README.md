@@ -2,8 +2,6 @@
 
 
 
-Thanks for visiting my profile!<br> Let's build something amazing together
-[Buy Me A Coffee](https://www.paypal.com/ncp/payment/ST7GXB79DHUZU)
 ---
 
 
@@ -29,6 +27,8 @@ class Developer:
         }
 ```
 
+<H3>Thanks for visiting my profile!<br> Let's build something amazing together</H3>
+[Buy Me Coffee](https://www.paypal.com/ncp/payment/ST7GXB79DHUZU)
 ---
 
 ##  Tech Stack & Tools
