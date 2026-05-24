@@ -16,7 +16,7 @@ class Developer:
         self.name = "Steve Lil Geve"
         self.role = "Full Stack Developer"
         self.location = "Kenya"
-        self.focus = ["AI Tech Builder" ""Django", "Python", "Microfinance Systems", "Fintech"]
+        self.focus = ["AI Tech Builder",""Django", "Python", "Microfinance Systems", "Fintech"]
     
     def current_project(self):
         return "Building Siaka Loan App - Microfinance Core Banking System"
