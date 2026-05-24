@@ -128,6 +128,6 @@ class Developer:
 
 **Thanks for visiting my profile! Let's build something amazing together! **
 
-[![Buy Me A Coffee](https://www.paypal.com/ncp/payment/ST7GXB79DHUZU)](https://buymeacoffee.com/stevelilgeve)
+[[Buy Me A Coffee]](https://www.paypal.com/ncp/payment/ST7GXB79DHUZU)
 
 </div>
