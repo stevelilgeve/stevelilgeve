@@ -8,7 +8,8 @@ Hey there, I'm Steve Ligeve
 
 </div>
 
-Thanks for visiting my profile! Let's build something amazing together!
+
+Thanks for visiting my profile!<br> Let's build something amazing together
 [Buy Me A Coffee](https://www.paypal.com/ncp/payment/ST7GXB79DHUZU)
 ---
 
