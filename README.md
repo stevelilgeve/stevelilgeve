@@ -122,12 +122,12 @@ class Developer:
 
 <div align="center">
 
-### 🎨 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 <img src="https://komarev.com/ghpvc/?username=stevelilgeve&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+**Thanks for visiting my profile! Let's build something amazing together! **
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stevelilgeve)
+[![Buy Me A Coffee](https://www.paypal.com/ncp/payment/ST7GXB79DHUZU)](https://buymeacoffee.com/stevelilgeve)
 
 </div>
