@@ -1,8 +1,8 @@
-#  Hey there, I'm Steve Ligeve! 
+Hey there, I'm Steve Ligeve
 
 <div align="center">
 
-[Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Django+%26+Python+Enthusiast;Microfinance+Tech+Builder;Open+Source+Contributor&center=true&width=500&height=50)]
+[Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Django+%26+Python+Enthusiast;Microfinance+Tech+Builder;Open+Source+Contributor&center=true&width=500&height=50)
 
 </div>
 
