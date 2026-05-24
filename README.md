@@ -1,11 +1,15 @@
 Hey there, I'm Steve Ligeve
 
+
 <div align="center">
 
-[Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Django+%26+Python+Enthusiast;Microfinance+Tech+Builder;Open+Source+Contributor&center=true&width=500&height=50)
+(https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Django+%26+Python+Enthusiast;Microfinance+Tech+Builder;Open+Source+Contributor&center=true&width=500&height=50)
+
 
 </div>
 
+Thanks for visiting my profile! Let's build something amazing together!
+[Buy Me A Coffee](https://www.paypal.com/ncp/payment/ST7GXB79DHUZU)
 ---
 
 
