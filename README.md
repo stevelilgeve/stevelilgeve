@@ -13,7 +13,7 @@ class Developer:
         self.name = "Steve Lil Geve"
         self.role = "Full Stack Developer"
         self.location = "Kenya"
-        self.focus = ["AI Tech Builder",""Django", "Python", "Microfinance Systems", "Fintech"]
+        self.focus = ["AI Tech Builder","Django", "Python", "Microfinance Systems", "Fintech"]
     
     def current_project(self):
         return "Building Siaka Loan App - Microfinance Core Banking System"
@@ -111,10 +111,9 @@ Thanks for visiting my profile!<br> Let's build something amazing together
 
 ##  2026 Goals
 
-- [ ]  Get 100+ stars on Siaka Loan App
+- [ ]  Get 50+ stars on Siaka Loan App
 - [ ]  Deploy Siaka Loan App to production
 - [ ]  Write 10+ technical blog posts
-- [ ]  Speak at 2 tech conferences
 - [ ]  Collaborate on 3 open source projects
 
 ---
